@@ -1,1 +1,3 @@
 # PET-Project
+
+In the continuously evolving world of technology, the gender pay gap remains a persistent issue, perpetuating inequity and stunting diversity and inclusion efforts. Our project investigates the gender pay gap across different job roles within the tech sector, with regard to varying education levels and age ranges from 18 to 35. To enhance the individual privacy of our data, we employ differential privacy techniques to understand the true factors of gender-based wage disparities in a protected and secure approach.

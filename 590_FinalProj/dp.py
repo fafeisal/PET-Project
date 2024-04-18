@@ -28,7 +28,7 @@ file_path = 'Filtered Glassdoor Gender Pay Gap.csv'
 data = pd.read_csv(file_path)
 
 #privacy budget (epsilon)
-epsilon = 1.0  # Smaller epsilon means more privacy
+epsilon = 0.1  # Smaller epsilon means more privacy
 
 # Job titles considered
 job_titles = ['Data Scientist', 'Financial Analyst', 'IT', 'Software Engineer']

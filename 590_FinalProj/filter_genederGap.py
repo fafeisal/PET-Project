@@ -26,8 +26,8 @@ def filter_file(input_file_path, output_file_path):
     print(f"Filtered data saved to {output_file_path}")
 
 #path to input/output file (local file path)
-input_file_path = '/Users/mariamrafique/Desktop/590_FinalProj/Glassdoor Gender Pay Gap.csv'  
-output_file_path = '/Users/mariamrafique/Desktop/590_FinalProj/Filtered Glassdoor Gender Pay Gap.csv'  
+input_file_path = 'Glassdoor Gender Pay Gap.csv'  
+output_file_path = 'Filtered Glassdoor Gender Pay Gap.csv'  
 
 #run filter_file function 
 filter_file(input_file_path, output_file_path)
